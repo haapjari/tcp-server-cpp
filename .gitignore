@@ -14,7 +14,7 @@ build/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-cmake-*
+cmake-build-debug
 .idea
 Makefile
 
