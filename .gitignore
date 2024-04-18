@@ -1,0 +1,31 @@
+# C++ and CMake specific ignores
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.out
+*.log
+*.tmp
+*.temp
+
+# CMake build and cache directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+cmake-*
+.idea
+Makefile
+
+# Backup files
+*~
+.*.swp
+.*.swo
+
+# Visual Studio Code
+.vscode/
+
+# Ignore all log files and binaries
+*.log
+*.bin
